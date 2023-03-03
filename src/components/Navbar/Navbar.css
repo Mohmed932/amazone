@@ -1,0 +1,135 @@
+.Navbar {
+  height: 10vh;
+  /* box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  z-index: 78;
+}
+.Navbar_searching {
+  display: none;
+}
+.Navbar img {
+  width: 25px;
+  height: 25px;
+}
+.Navbar input {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+}
+.Navbar .img-logo {
+  width: 80px;
+  height: 80px;
+}
+.Navbar-search {
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 35%;
+}
+.Navbar-search input {
+  padding: 10px;
+  width: 80%;
+}
+.Navbar_search_phone {
+  position: absolute;
+  top: -10vh;
+  min-width: 80%;
+  height: 7vh;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  transition: 0.5s;
+  z-index: 89;
+}
+.Navbar_search_phone.show {
+  top: 13vh;
+}
+.Navbar_search_phone input {
+  width: 85%;
+  padding: 10px;
+}
+.Navbar-cart {
+  display: flex;
+  position: relative;
+}
+.Navbar-cart img {
+  padding: 10px;
+  cursor: pointer;
+}
+.cart_Count {
+  position: relative;
+}
+.cart_Count span {
+  position: absolute;
+  top: 0;
+  right: -15px;
+  background-color: rgb(182, 29, 80);
+  color: #fff;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.Navbar_cart_categories {
+  position: absolute;
+  top: -50vh;
+  right: 10vw;
+  width: 20%;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+  transition: 0.5s;
+  z-index: 89;
+}
+.categories_prodect a {
+  text-decoration: none;
+  color: #000;
+}
+.Navbar_cart_categories.showCategorie {
+  top: 15vh;
+}
+.categories_prodect span {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.categories_prodect span:hover {
+  color: rgb(182, 29, 80);
+}
+@media (max-width: 1080px) {
+  .Navbar_searching {
+    display: block;
+  }
+  .Navbar-search {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .Navbar_search_phone {
+    width: 95%;
+  }
+  .Navbar_search_phone input {
+    width: 75%;
+    padding: 7px;
+    font-size: 15px;
+  }
+  .Navbar_cart_categories {
+    width: 40%;
+    font-size: 16px;
+  }
+}

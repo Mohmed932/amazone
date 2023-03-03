@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Apple iPhone 13 (128 Go) - Bleu",
+    "asin": "B09G9G128Q",
+    "brand": "Visiter la boutique Apple",
+    "stars": null,
+    "reviewsCount": 4066,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/51eAjBC0EfL._AC_SX342_SY445_.jpg",
+    "breadCrumbs": "",
+    "description": null,
+    "price": {
+      "value": 81900,
+      "currency": "€"
+    },
+    "url": "https://www.amazon.fr/dp/B09G9G128Q"
+  },
+  {
+    "title": "Xiaomi 12T",
+    "asin": "B0BG5TTMCS",
+    "brand": "Visiter la boutique Xiaomi",
+    "stars": null,
+    "reviewsCount": 6,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/814FvNm0zDL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "breadCrumbs": "Sports et Loisirs › Électronique › Trackers d'activité",
+    "description": "Xiaomi 12T 5G (8GB+256GB) bleu",
+    "price": {
+      "value": 64900,
+      "currency": "€"
+    },
+    "url": "https://www.amazon.fr/dp/B0BG5TTMCS"
+  },
+  {
+    "title": "Samsung Galaxy S23+",
+    "asin": "B0BQW7BH96",
+    "brand": "Visiter la boutique Samsung",
+    "stars": null,
+    "reviewsCount": 1,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/61rQs5uR9iL._AC_SY300_SX300_.jpg",
+    "breadCrumbs": "High-Tech › Téléphones portables et accessoires › Smartphones et téléphones portables débloqués",
+    "description": "Voici les nouveaux Galaxy S23 +. Incarnant un changement majeur pour Samsung, ils intègrent des composants issus de matériaux recyclés, pour une conception nouvelle plus respectueuse de l’environnement. Incroyablement puissants, ils embarquent notre processeur le plus rapide à ce jour, le Qualcomm Snapdragon® 8 Gen 2 ; associé à 8Go de RAM. Parfait pour vos sessions de jeu les plus intenses, avec des smartphones qui assurent fluidité, hautes performances et autonomie du matin jusq u’a u soir. Côté photo, les Galaxy S23 et Galaxy S23+ sont incroyables. Avec un système photo à 3 capteurs et capteur principal de 50 Mpx, ils sont en mesure de révéler la lumière dans la pénombre, shooter en très haute définition ou zoomer sans perdre en qualité. Pour des photos et vidéos extrao rdi naires, à tout moment Leurs écrans de 6,1 et 6,6 pouces, d’une fluidité adaptative de 120Hz, embarquent tout le savoir faire Samsung. Pour des écrans lumineux aux couleurs fidèles, vous plongeant en immersion totale dans vos contenus préférés.",
+    "price": {
+      "value": 133900,
+      "currency": " €"
+    },
+    "url": "https://www.amazon.fr/dp/B0BQW7BH96"
+  },
+  {
+    "title": "OPPO Find X5",
+    "asin": "B09SQBL6DH",
+    "brand": "Visiter la boutique OPPO",
+    "stars": null,
+    "reviewsCount": null,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/71cyrT1IoYL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "breadCrumbs": "High-Tech › Téléphones portables et accessoires › Smartphones et téléphones portables débloqués",
+    "description": "Oppo Find X5 5G",
+    "price": {
+      "value": 104475,
+      "currency": " €"
+    },
+    "url": "https://www.amazon.fr/dp/B09SQBL6DH"
+  }
+]

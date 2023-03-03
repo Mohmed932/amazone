@@ -1,0 +1,62 @@
+[
+  {
+    "title": "adidas Men's",
+    "asin": "B08JMCYKTD",
+    "brand": "adidas",
+    "stars": 4.4,
+    "reviewsCount": 2776,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/71oTbbiCxES._AC_SX395_SY395_.jpg",
+    "breadCrumbs": "Clothing, Shoes & Jewelry › Men › Shoes › Athletic › Running › Road Running",
+    "description": "Running-inspired style built to get you through the day. These men's adidas sneakers have a soft textile upper and a TPU heel pull that makes them easy to get on and off. A Cloudfoam midsole cushions every single step.",
+    "price": {
+      "value": 43.43,
+      "currency": "$"
+    },
+    "url": "https://www.amazon.com/dp/B08JMCYKTD"
+  },
+  {
+    "title": "Nike Men's",
+    "asin": "B007IK0V8G",
+    "brand": "Nike",
+    "stars": 4.4,
+    "reviewsCount": 588,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/91WWvsa7E5L._AC_SX395_SY395_.jpg",
+    "breadCrumbs": "Clothing, Shoes & Jewelry › Women › Shoes › Fashion Sneakers",
+    "description": "The Nike Air Max Command Women is a running trainer and offers you versatile, lightweight comfort and the necessary support. With its inspiration from Air Max 90, the Air Max Command is a sport-conscious lifestyle design with large Nike Air window in the heel area.",
+    "price": {
+      "value": 76.78,
+      "currency": "$"
+    },
+    "url": "https://www.amazon.com/dp/B007IK0V8G"
+  },
+  {
+    "title": "OOFOS Unisex",
+    "asin": "B00BRC503C",
+    "brand": "OOFOS",
+    "stars": 4.3,
+    "reviewsCount": 220,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/41OF5xL0xUL._AC_SY395_SX395_.jpg",
+    "breadCrumbs": "Clothing, Shoes & Jewelry › Men › Shoes › Sandals",
+    "description": null,
+    "price": {
+      "value": 79.99,
+      "currency": "$"
+    },
+    "url": "https://www.amazon.com/dp/B00BRC503C"
+  },
+  {
+    "title": "PUMA Women's",
+    "asin": "B09VRJX2HB",
+    "brand": "PUMA",
+    "stars": 4.5,
+    "reviewsCount": 47,
+    "thumbnailImage": "https://m.media-amazon.com/images/I/619cQm5JaSL.__AC_SX395_SY395_QL70_FMwebp_.jpg",
+    "breadCrumbs": "Clothing, Shoes & Jewelry › Women › Shoes › Fashion Sneakers",
+    "description": "Lightweight and flexible, the BETTER FOAM Prowl Slip is a stylized trainer perfect for quick, agile movements. Upper features an easy, sock like construction enhancing comfort and flexibility. SOFTFOAM+ incorporated into the footbed, ensures a holistic, full foot comfort story.",
+    "price": {
+      "value": 36.99,
+      "currency": "$"
+    },
+    "url": "https://www.amazon.com/dp/B09VRJX2HB"
+  }
+]
